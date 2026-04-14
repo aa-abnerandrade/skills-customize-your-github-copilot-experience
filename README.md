@@ -1,48 +1,35 @@
-# 📘 Tarefa: Personalize Sua Experiência com o GitHub Copilot
+<div align="center">
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+# 🎉 Congratulations aa-abnerandrade! 🎉
 
-## 🎯 Objetive
+<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
-Prepare um exercício educacional que ensine como personalizar a experiência do GitHub Copilot. A tarefa deve seguir a estrutura do projeto e o template de tarefa, oferecendo um documento claro, completo e fácil de usar.
+### 🌟 You've successfully completed the exercise! 🌟
 
-## 📝 Tasks
+## 🚀 Share Your Success!
 
-### 🛠️ Atualizar o README para o formato de tarefa
+**Show off your new skills and inspire others!**
 
-#### Descrição
-Transforme o conteúdo atual em uma tarefa estruturada usando o modelo de template de assignment.
+<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22Personalize%20Sua%20Experi%C3%AAncia%20com%20o%20GitHub%20Copilot%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Faa-abnerandrade%2Fskills-customize-your-github-copilot-experience%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
+</a>
+<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22Personalize%20Sua%20Experi%C3%AAncia%20com%20o%20GitHub%20Copilot%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Faa-abnerandrade%2Fskills-customize-your-github-copilot-experience%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
+</a>
+<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22Personalize%20Sua%20Experi%C3%AAncia%20com%20o%20GitHub%20Copilot%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Faa-abnerandrade%2Fskills-customize-your-github-copilot-experience%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
+</a>
 
-#### Requisitos
-O programa completo deve:
+### 🎯 What's Next?
 
-- Incluir título, objetivo, tarefas e requisitos.
-- Usar uma linguagem clara e motivadora para o aluno.
-- Seguir o formato de `templates/assignment-template.md`.
+**Keep the momentum going!**
 
-### 🛠️ Organizar o conteúdo do projeto
+[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/aa-abnerandrade/skills-customize-your-github-copilot-experience/issues/1)
+[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills)
 
-#### Descrição
-Verifique se a documentação está alinhada com a estrutura do repositório e com os padrões de aprendizado definidos.
+*There's no better way to learn than building things!* 🚀
 
-#### Requisitos
-O programa completo deve:
-
-- Referenciar o projeto e a tarefa claramente.
-- Preservar o estilo educacional e a navegabilidade.
-- Manter a marcação e os links úteis para os alunos.
-
-### 🛠️ Adicionar links e referências úteis
-
-#### Descrição
-Inclua um link para a tarefa principal e informações adicionais de conduta/licença.
-
-#### Requisitos
-O programa completo deve:
-
-- Incluir um botão ou link para a issue/exercício principal.
-- Adicionar referências ao `Code of Conduct` e à `MIT License`.
-- Garantir que a página continue amigável e profissional.
+</div>
 
 ---
 
