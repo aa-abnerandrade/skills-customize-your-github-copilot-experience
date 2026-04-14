@@ -2,7 +2,7 @@
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
-## 🎯 Objetivo
+## 🎯 Objetive
 
 Prepare um exercício educacional que ensine como personalizar a experiência do GitHub Copilot. A tarefa deve seguir a estrutura do projeto e o template de tarefa, oferecendo um documento claro, completo e fácil de usar.
 

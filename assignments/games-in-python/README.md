@@ -1,19 +1,35 @@
+# 📘 Tarefa: Jogo da Forca
 
-# 🎮 Desafio: Jogo da Forca
+## 🎯 Objetivo
 
-Construa o clássico jogo de adivinhar palavras usando strings, loops e entrada de dados do usuário em Python.
+Pratique conceitos de programação em Python construindo um jogo interativo da Forca. O aluno irá trabalhar com entrada de usuário, loops, condicionais e strings para criar uma experiência de jogo completa.
 
-## 🎯 O Que Você Vai Construir
+## 📝 Tasks
 
-Crie um jogo da Forca onde os jogadores adivinham letras para revelar uma palavra oculta antes de esgotar as tentativas.
+### 🛠️ Construir o Jogo da Forca
 
-**Habilidades praticadas:** Manipulação de strings, loops, condicionais, seleção aleatória
+#### Descrição
+Desenvolva um jogo da Forca em Python onde o jogador tenta descobrir uma palavra letra por letra antes de ficar sem tentativas.
 
-## ✅ Requisitos Obrigatórios
+#### Requisitos
+O programa completo deve:
 
-Seu jogo deve:
-- Selecionar palavras aleatoriamente de uma lista predefinida
-- Aceitar palpites de letras e mostrar o progresso atual (formato _ _ _)
-- Rastrear tentativas incorretas restantes
-- Encerrar quando a palavra for adivinhada ou as tentativas esgotarem
-- Exibir mensagens de vitória/derrota
+- Selecionar uma palavra aleatória de uma lista predefinida.
+- Solicitar palpites de letras do usuário.
+- Mostrar o progresso atual da palavra com letras descobertas e espaços para letras não adivinhadas (por exemplo: `_ _ A _ E`).
+- Atualizar e exibir o número de tentativas restantes.
+- Encerar o jogo quando a palavra for adivinhada ou as tentativas se esgotarem.
+- Exibir uma mensagem de vitória ou derrota ao final.
+
+### 🛠️ Validar Palpites do Jogador
+
+#### Descrição
+Implemente lógica para verificar se o palpite do jogador é válido e se a letra já foi usada.
+
+#### Requisitos
+O programa completo deve:
+
+- Aceitar apenas entradas de uma letra por palpite.
+- Ignorar letras já adivinhadas e avisar o jogador quando isso acontecer.
+- Atualizar corretamente o estado do jogo após cada palpite.
+- Tratar entradas inválidas de forma amigável.
