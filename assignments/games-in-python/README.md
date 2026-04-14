@@ -1,6 +1,6 @@
 # 📘 Tarefa: Jogo da Forca
 
-## 🎯 Objetivo
+## 🎯 Objetive
 
 Pratique conceitos de programação em Python construindo um jogo interativo da Forca. O aluno irá trabalhar com entrada de usuário, loops, condicionais e strings para criar uma experiência de jogo completa.
 
